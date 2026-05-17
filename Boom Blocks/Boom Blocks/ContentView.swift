@@ -34,7 +34,7 @@ struct ContentView: View {
                         Text("Play Game")
                             .font(.title)
                             .bold()
-                            .padding(.horizontal, 24)
+                            .padding(.horizontal, 50)
                             .padding(.vertical, 12)
                             .frame(minWidth: 160)
                             .background(.thinMaterial)
